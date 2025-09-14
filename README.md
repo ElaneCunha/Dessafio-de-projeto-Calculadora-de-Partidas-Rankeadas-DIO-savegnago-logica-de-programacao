@@ -1,9 +1,8 @@
 Calculadora de Partidas Rankeadas
 
-1- Descrição
+1- Projeto
 
-Este projeto tem como objetivo criar uma função que calcula o saldo de partidas ranqueadas de um jogador com base em suas vitórias e derrotas. A partir desse saldo, o jogador é 
-classificado em um nível específico de habilidade.
+Este projeto faz parte do desafio da DIO (Digital Innovation One). Este projeto tem como objetivo criar uma função que calcula o saldo de partidas ranqueadas de um jogador com base em suas vitórias e derrotas. A partir desse saldo, o jogador é classificado em um nível específico de habilidade.
 
 2-Tecnologias Utilizadas
 
